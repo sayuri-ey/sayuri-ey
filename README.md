@@ -3,6 +3,9 @@
 - 🌱 I’m currently working at Bulk Consulting and Analytics
 - 💞️ I’m looking to collaborate on data analysis, data visualization and science in general
 
+
+<link rel="stylesheet" href="style.css">
+
 <div>
   <a href="https://github.com/sayuri-ey" target="_blank">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sayuri-ey&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
@@ -10,7 +13,7 @@
   </a>
 </div>
 
-<table>
+<table style="max-width:100%" position="center">
   <tr>
     <th>
       <h3>Programming languages:</h3>
