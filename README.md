@@ -1,8 +1,7 @@
 <div align="center">
   <p>- 👋 Hi, I’m @sayuri-ey</p>
   <p>- 👀 I’m interested in science and tech</p>
-  <p>- 🌱 I’m currently working at Bulk Consulting and Analytics</p>
-  <p>- 💞️ I’m looking to collaborate on data analysis, data visualization and science in general</p>
+  <p>- 🌱 I’m currently working at AMAROs</p>
 </div>
 
 <div align="center">
