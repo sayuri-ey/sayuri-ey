@@ -1,7 +1,7 @@
 <div align="center">
   <p>- 👋 Hi, I’m @sayuri-ey</p>
   <p>- 👀 I’m interested in science and tech</p>
-  <p>- 🌱 I’m currently working at AMAROs</p>
+  <p>- 🌱 I’m currently working at AMARO</p>
 </div>
 
 <div align="center">
@@ -27,6 +27,7 @@
     <th>
       <h3>Clouds:</h3>
       <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+      <img height='60' src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" />      
     </th>
     <th>
       <h3>Tools:</h3>
