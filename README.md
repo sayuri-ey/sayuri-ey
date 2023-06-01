@@ -9,6 +9,7 @@
   After transitioning to the corporate world, I gained invaluable experience as a junior data engineer at Santander bank, quickly demonstrating my expertise and dedication to the role by earning a mid-level promotion within six months. I then transitioned to AMARO, a leading retail tech startup, where I was part of data science team responsible for the search and recommendation systems of the company. As part of the search and navigation squad, I collaborated with cross-functional teams, including front-end and back-end developers, data analysts, project managers, tech leads, and stakeholders. 
   Most recently, I was relocated to the data and governance squad, where I employed AWS Sagemaker, DynamoDB, Snowflake, SQL, Step Functions, and Lambdas to streamline data operations and ensure data quality. My contributions have helped AMARO deliver personalized and seamless customer experiences across multiple platforms.
   I am excited about applying my knowledge of data science and my experience in marine biology and oceanography to create positive impacts in the corporate world. Let's connect and explore how we can work together to drive impactful solutions.
+  <p>
 </div>
 
 <div align="center">
