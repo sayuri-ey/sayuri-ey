@@ -4,6 +4,13 @@
   <p>- 🌱 I’m currently working at AMARO</p>
 </div>
 
+<div align="justify">
+  Data scientist with a diverse background in marine sciences, finances and retail, developing data-driven solutions using Python. With 12 years of experience in academic research, I've worked on projects ranging from environmental impact to climate change data.
+  After transitioning to the corporate world, I gained invaluable experience as a junior data engineer at Santander bank, quickly demonstrating my expertise and dedication to the role by earning a mid-level promotion within six months. I then transitioned to AMARO, a leading retail tech startup, where I was part of data science team responsible for the search and recommendation systems of the company. As part of the search and navigation squad, I collaborated with cross-functional teams, including front-end and back-end developers, data analysts, project managers, tech leads, and stakeholders. 
+  Most recently, I was relocated to the data and governance squad, where I employed AWS Sagemaker, DynamoDB, Snowflake, SQL, Step Functions, and Lambdas to streamline data operations and ensure data quality. My contributions have helped AMARO deliver personalized and seamless customer experiences across multiple platforms.
+  I am excited about applying my knowledge of data science and my experience in marine biology and oceanography to create positive impacts in the corporate world. Let's connect and explore how we can work together to drive impactful solutions.
+</div>
+
 <div align="center">
   <a href="https://github.com/sayuri-ey" target="_blank">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sayuri-ey&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
